@@ -31,5 +31,5 @@ This notebook-based tool allows our patient support team to log the "vibe" of th
 - `README.md` — this file
 
 ## Additional Links
-- 🧾 Google Sheet: [View Sheet]([https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID_HERE](https://docs.google.com/spreadsheets/d/1DvJzFItN61QgzXS9OB_FUEltq6idruWNjoW0HP1ys8s/edit?usp=sharing))
+- Google Sheet: [View Sheet](https://docs.google.com/spreadsheets/d/1DvJzFItN61QgzXS9OB_FUEltq6idruWNjoW0HP1ys8s/edit?usp=sharing)
 
